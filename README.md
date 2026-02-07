@@ -9,6 +9,8 @@ The application displays:
 * User authentication (Login/Sign Up)
 * Order history tracking
 
+🔗 **Live Demo:** https://shopi-ecom-store.netlify.app/
+
 ## 🎬 Demo
 
 ![Demo](src/assets/demo.gif)
