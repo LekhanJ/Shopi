@@ -9,19 +9,7 @@ The application displays:
 * User authentication (Login/Sign Up)
 * Order history tracking
 
-## 📸 Screenshots
-
-### Home Page
-![Home Page](src/assets/homepage.png)
-
-### Product Details
-![Product Details](src/assets/product-details.png)
-
-### Cart Side Menu
-![Cart](src/assets/cart.png)
-
-
-## 🎬 Demo Video
+## 🎬 Demo
 
 ![Demo](src/assets/demo.gif)
 
